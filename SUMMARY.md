@@ -19,7 +19,7 @@
             * [11.3.1 @RestController和@RequestMapping注解](II.Getting_started/11.3.1.The_@RestController_and_@RequestMapping_annotations.md)
             * [11.3.2 @EnableAutoConfiguration注解](II.Getting_started/11.3.2.The_@EnableAutoConfiguration_annotation.md)
             * [11.3.3 “main”方法](II.Getting_started/11.3.3.The_“main”_method.md)
-        * 11.4 Running the example
+        * [11.4 运行示例](II.Getting_started/11.4.Running_the_example.md)
         * 11.5 Creating an executable jar
     * 12. What to read next
 * [III. 使用Spring Boot](III.Using_Spring_Boot/README.md)
