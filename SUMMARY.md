@@ -36,7 +36,7 @@
     * [14. 构建代码](III.Using_Spring_Boot/14.Structuring_your_code.md)
     * [15. 配置类](III.Using_Spring_Boot/15.Configuration_classes.md)
     * [16. 自动配置](III.Using_Spring_Boot/16.Auto-configuration.md)
-    * 17. Spring Beans and dependency injection
+    * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
 * [IV. Spring Boot的特性](IV.Spring_Boot_features/README.md)
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
