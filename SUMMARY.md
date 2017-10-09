@@ -30,7 +30,7 @@
             * [13.2.2 不配置父POM使用Spring  Boot](III.Using_Spring_Boot/13.2.2.Using_Spring_Boot_without_the_parent_POM.md)
             * [13.2.3 更改Java版本](III.Using_Spring_Boot/13.2.3.Changing_the_Java_version.md)
             * [13.2.4 使用Spring Boot的Maven插件](III.Using_Spring_Boot/13.2.4.Using_the_Spring_Boot_Maven_plugin.md)
-        * 13.3. Gradle
+        * [13.3. Gradle](III.Using_Spring_Boot/13.3.Gradle.md)
         * 13.4. Ant
         * 13.5. Starters
     * [14. 构建代码](III.Using_Spring_Boot/14.Structuring_your_code.md)
