@@ -27,7 +27,7 @@
         * [13.1 依赖管理](III.Using_Spring_Boot/13.1.Dependency_management.md)
         * [13.2 Maven](III.Using_Spring_Boot/13.2.Maven.md)
             * [13.2.1 继承父启动器](III.Using_Spring_Boot/13.2.1.Inheriting_the_starter_parent.md)
-            * 13.2.2. Using Spring Boot without the parent POM
+            * [13.2.2 不配置父POM使用Spring  Boot](III.Using_Spring_Boot/13.2.2.Using_Spring_Boot_without_the_parent_POM.md)
             * 13.2.3. Changing the Java version
             * 13.2.4. Using the Spring Boot Maven plugin
         * 13.3. Gradle
