@@ -42,7 +42,7 @@
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
-        * 41.3 测试Spring Boot程序
+        * [41.3 测试Spring Boot程序](IV.Spring_Boot_features/41.3.Testing_Spring_Boot_applications.md)
             * 41.3.1. Detecting test configuration
             * 41.3.2. Excluding test configuration
             * 41.3.3. Working with random ports
