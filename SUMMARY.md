@@ -47,7 +47,7 @@
             * 41.3.2. Excluding test configuration
             * 41.3.3. Working with random ports
             * 41.3.4. Mocking and spying beans
-            * 41.3.5. Auto-configured tests
+            * [41.3.5 自动配置的测试](IV.Spring_Boot_features/41.3.5.Auto-configured_tests.md)
             * 41.3.6. Auto-configured JSON tests
             * 41.3.7. Auto-configured Spring MVC tests
             * 41.3.8. Auto-configured Data JPA tests
