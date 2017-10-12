@@ -39,6 +39,24 @@
     * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
 * [IV. Spring Boot的特性](IV.Spring_Boot_features/README.md)
+    * [29. 使用SQL数据库](IV.Spring_Boot_features/29.Working_with_SQL_databases.md)
+        * 29.1. Configure a DataSource
+            * 29.1.1. Embedded Database Support
+            * 29.1.2. Connection to a production database
+            * 29.1.3. Connection to a JNDI DataSource
+        * 29.2. Using JdbcTemplate
+        * 29.3. JPA and ‘Spring Data’
+            * 29.3.1. Entity Classes
+            * 29.3.2. Spring Data JPA Repositories
+            * 29.3.3. Creating and dropping JPA databases
+            * 29.3.4. Open EntityManager in View
+        * 29.4. Using H2’s web console
+            * 29.4.1. Changing the H2 console’s path
+            * 29.4.2. Securing the H2 console
+        * 29.5. Using jOOQ
+            * 29.5.1. Code Generation
+            * 29.5.2. Using DSLContext
+            * 29.5.3. Customizing jOOQ
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
