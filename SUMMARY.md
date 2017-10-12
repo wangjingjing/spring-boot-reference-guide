@@ -40,7 +40,7 @@
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
 * [IV. Spring Boot的特性](IV.Spring_Boot_features/README.md)
     * [29. 使用SQL数据库](IV.Spring_Boot_features/29.Working_with_SQL_databases.md)
-        * 29.1. Configure a DataSource
+        * [29.1 配置DataSource](IV.Spring_Boot_features/29.1.Configure_a_DataSource.md)
             * 29.1.1. Embedded Database Support
             * 29.1.2. Connection to a production database
             * 29.1.3. Connection to a JNDI DataSource
