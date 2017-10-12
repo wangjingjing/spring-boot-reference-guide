@@ -49,7 +49,7 @@
             * 41.3.4. Mocking and spying beans
             * [41.3.5 自动配置的测试](IV.Spring_Boot_features/41.3.5.Auto-configured_tests.md)
             * [41.3.6 自动配置的JSON测试](IV.Spring_Boot_features/41.3.6.Auto-configured_JSON_tests.md)
-            * 41.3.7. Auto-configured Spring MVC tests
+            * [41.3.7 自动配置的Spring MVC测试](IV.Spring_Boot_features/41.3.7.Auto-configured_Spring_MVC_tests.md)
             * 41.3.8. Auto-configured Data JPA tests
             * 41.3.9. Auto-configured JDBC tests
             * 41.3.10. Auto-configured Data MongoDB tests
