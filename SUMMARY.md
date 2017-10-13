@@ -44,7 +44,7 @@
             * [29.1.1 嵌入式数据库支持](IV.Spring_Boot_features/29.1.1.Embedded_Database_Support.md)
             * 29.1.2. Connection to a production database
             * 29.1.3. Connection to a JNDI DataSource
-        * 29.2. Using JdbcTemplate
+        * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
         * 29.3. JPA and ‘Spring Data’
             * 29.3.1. Entity Classes
             * 29.3.2. Spring Data JPA Repositories
