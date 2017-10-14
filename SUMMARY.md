@@ -47,7 +47,7 @@
         * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
         * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_‘Spring Data’.md)
             * [29.3.1 实体类](IV.Spring_Boot_features/29.3.1.Entity_Classes.md)
-            * 29.3.2. Spring Data JPA Repositories
+            * [29.3.2 Spring Data JPA仓库](IV.Spring_Boot_features/29.3.2.Spring_Data_JPA_Repositories.md)
             * 29.3.3. Creating and dropping JPA databases
             * 29.3.4. Open EntityManager in View
         * 29.4. Using H2’s web console
