@@ -38,7 +38,7 @@
     * [16. 自动配置](III.Using_Spring_Boot/16.Auto-configuration.md)
     * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
-* [IV. Spring Boot的特性](IV.Spring_Boot_features/README.md)
+* [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
