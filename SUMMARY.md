@@ -49,7 +49,7 @@
             * [29.3.1 实体类](IV.Spring_Boot_features/29.3.1.Entity_Classes.md)
             * [29.3.2 Spring Data JPA仓库](IV.Spring_Boot_features/29.3.2.Spring_Data_JPA_Repositories.md)
             * [29.3.3 创建和删除JPA数据库](IV.Spring_Boot_features/29.3.3.Creating_and_dropping_JPA_databases.md)
-            * 29.3.4. Open EntityManager in View
+            * [29.3.4 Open EntityManager in View](IV.Spring_Boot_features/29.3.4.Open_EntityManager_in_View.md)
         * 29.4. Using H2’s web console
             * 29.4.1. Changing the H2 console’s path
             * 29.4.2. Securing the H2 console
