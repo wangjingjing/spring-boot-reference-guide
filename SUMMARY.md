@@ -2,7 +2,7 @@
 
 * [I. Spring Boot文档](I.Spring_Boot_Documentation/README.md)
     * [1. 关于文档](I.Spring_Boot_Documentation/1.About_the_documentation.md)
-    * 2. Getting help
+    * [2. 获取帮助](I.Spring_Boot_Documentation/2.Getting_help.md)
     * 3. First steps
     * 4. Working with Spring Boot
     * 5. Learning about Spring Boot features
