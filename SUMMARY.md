@@ -5,7 +5,7 @@
     * [2. 获取帮助](I.Spring_Boot_Documentation/2.Getting_help.md)
     * [3. 第一步](I.Spring_Boot_Documentation/3.First_steps.md)
     * [4. 使用Spring Boot](I.Spring_Boot_Documentation/4.Working_with_Spring_Boot.md)
-    * 5. Learning about Spring Boot features
+    * [5. 了解Spring Boot的功能](I.Spring_Boot_Documentation/5.Learning_about_Spring_Boot_features.md)
     * 6. Moving to production
     * 7. Advanced topics
 * [II. 入门](II.Getting_started/README.md)
