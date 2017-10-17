@@ -11,7 +11,11 @@
 * [II. 入门](II.Getting_started/README.md)
     * [8. Spring Boot简介](II.Getting_started/8.Introducing_Spring_Boot.md)
     * [9. 系统要求](II.Getting_started/9.System_Requirements.md)
-    * 10. Installing Spring Boot
+        * [9.1 Servlet容器](II.Getting_started/9.System_Requirements.md#9.1 Servlet容器)
+    * [10. 安装Spring Boot](II.Getting_started/10.Installing_Spring_Boot.md)
+        * 10.1. Installation instructions for the Java developer
+            * 10.1.1. Maven installation
+            * 10.1.2. Gradle installation
     * [11. 开发第一个Spring Boot程序](II.Getting_started/11.Developing_your_first_Spring_Boot_application.md)
         * [11.1 创建POM](II.Getting_started/11.1.Creating_the_POM.md)
         * [11.2 添加类路径依赖](II.Getting_started/11.2.Adding_classpath_dependencies.md)
