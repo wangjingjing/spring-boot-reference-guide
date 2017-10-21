@@ -13,7 +13,7 @@
     * [9. 系统要求](II.Getting_started/9.System_Requirements.md)
         * [9.1 Servlet容器](II.Getting_started/9.System_Requirements.md#9.1 Servlet容器)
     * [10. 安装Spring Boot](II.Getting_started/10.Installing_Spring_Boot.md)
-        * 10.1. Installation instructions for the Java developer
+        * [10.1 Java开发者的安装说明](II.Getting_started/10.1.Installation_instructions_for_the_Java_developer.md)
             * 10.1.1. Maven installation
             * 10.1.2. Gradle installation
     * [11. 开发第一个Spring Boot程序](II.Getting_started/11.Developing_your_first_Spring_Boot_application.md)
