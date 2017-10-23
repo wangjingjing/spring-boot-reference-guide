@@ -15,7 +15,9 @@
     * [10. 安装Spring Boot](II.Getting_started/10.Installing_Spring_Boot.md)
         * [10.1 Java开发者的安装说明](II.Getting_started/10.1.Installation_instructions_for_the_Java_developer.md)
             * [10.1.1 Maven安装](II.Getting_started/10.1.1.Maven_installation.md)
-            * 10.1.2. Gradle installation
+            * [10.1.2 Gradle安装](II.Getting_started/10.1.2.Gradle_installation.md)
+        * 10.2. Installing the Spring Boot CLI
+        * 10.3. Upgrading from an earlier version of Spring Boot
     * [11. 开发第一个Spring Boot程序](II.Getting_started/11.Developing_your_first_Spring_Boot_application.md)
         * [11.1 创建POM](II.Getting_started/11.1.Creating_the_POM.md)
         * [11.2 添加类路径依赖](II.Getting_started/11.2.Adding_classpath_dependencies.md)
