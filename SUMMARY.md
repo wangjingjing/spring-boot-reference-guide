@@ -80,7 +80,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
         * 28.4. Actuator Security 
     * [29. 使用SQL数据库](IV.Spring_Boot_features/29.Working_with_SQL_databases.md)
         * [29.1 配置DataSource](IV.Spring_Boot_features/29.1.Configure_a_DataSource.md)
-            * [29.1.1 嵌入式数据库支持](IV.Spring_Boot_features/29.1.1.Embedded_Database_Support.md)
+            * [29.1.1 内置数据库支持](IV.Spring_Boot_features/29.1.1.Embedded_Database_Support.md)
             * 29.1.2. Connection to a production database
             * 29.1.3. Connection to a JNDI DataSource
         * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
