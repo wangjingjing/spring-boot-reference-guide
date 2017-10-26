@@ -11,7 +11,7 @@
 * [II. 入门](II.Getting_started/README.md)
     * [8. Spring Boot简介](II.Getting_started/8.Introducing_Spring_Boot.md)
     * [9. 系统要求](II.Getting_started/9.System_Requirements.md)
-        * [9.1 Servlet容器](II.Getting_started/9.System_Requirements.md#9.1 Servlet容器)
+        * [9.1 Servlet容器](II.Getting_started/9.System_Requirements.md#91-servlet容器)
     * [10. 安装Spring Boot](II.Getting_started/10.Installing_Spring_Boot.md)
         * [10.1 Java开发者的安装说明](II.Getting_started/10.1.Installation_instructions_for_the_Java_developer.md)
             * [10.1.1 Maven安装](II.Getting_started/10.1.1.Maven_installation.md)
@@ -40,8 +40,14 @@
         * 13.4. Ant
         * [13.5 启动器](III.Using_Spring_Boot/13.5.Starters.md)
     * [14. 构建代码](III.Using_Spring_Boot/14.Structuring_your_code.md)
+        * [14.1 使用“default”包](III.Using_Spring_Boot/14.Structuring_your_code.md#141-使用default包)
+        * [14.2 放置主程序类](III.Using_Spring_Boot/14.Structuring_your_code.md#142-放置主程序类)
     * [15. 配置类](III.Using_Spring_Boot/15.Configuration_classes.md)
+        * [15.1 导入额外的配置类](III.Using_Spring_Boot/15.Configuration_classes.md#151-导入额外的配置类)
+        * [15.2 导入XML配置](III.Using_Spring_Boot/15.Configuration_classes.md#152-导入XML配置)
     * [16. 自动配置](III.Using_Spring_Boot/16.Auto-configuration.md)
+        * [16.1 逐步替代自动配置](III.Using_Spring_Boot/16.Auto-configuration.md#161-逐步替代自动配置)
+        * [16.2 禁用指定的自动配置](III.Using_Spring_Boot/16.Auto-configuration.md#162-禁用指定的自动配置)
     * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
@@ -84,7 +90,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * 29.1.2. Connection to a production database
             * 29.1.3. Connection to a JNDI DataSource
         * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
-        * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_‘Spring Data’.md)
+        * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_Spring Data.md)
             * [29.3.1 实体类](IV.Spring_Boot_features/29.3.1.Entity_Classes.md)
             * [29.3.2 Spring Data JPA仓库](IV.Spring_Boot_features/29.3.2.Spring_Data_JPA_Repositories.md)
             * [29.3.3 创建和删除JPA数据库](IV.Spring_Boot_features/29.3.3.Creating_and_dropping_JPA_databases.md)
