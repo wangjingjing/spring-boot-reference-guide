@@ -90,7 +90,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * 29.1.2. Connection to a production database
             * 29.1.3. Connection to a JNDI DataSource
         * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
-        * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_Spring Data.md)
+        * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_‘Spring_Data’.md)
             * [29.3.1 实体类](IV.Spring_Boot_features/29.3.1.Entity_Classes.md)
             * [29.3.2 Spring Data JPA仓库](IV.Spring_Boot_features/29.3.2.Spring_Data_JPA_Repositories.md)
             * [29.3.3 创建和删除JPA数据库](IV.Spring_Boot_features/29.3.3.Creating_and_dropping_JPA_databases.md)
