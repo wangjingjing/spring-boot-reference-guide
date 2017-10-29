@@ -50,6 +50,7 @@
         * [16.2 禁用指定的自动配置](III.Using_Spring_Boot/16.Auto-configuration.md#162-禁用指定的自动配置)
     * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
+    * [19. 运行您的程序](III.Using_Spring_Boot/19.Running_your_application.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
