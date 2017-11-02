@@ -51,6 +51,7 @@
     * [17. Spring的bean以及依赖注入](III.Using_Spring_Boot/17.Spring_Beans_and_dependency_injection.md)
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
     * [19. 运行您的程序](III.Using_Spring_Boot/19.Running_your_application.md)
+        * [19.1 从IDE运行](III.Using_Spring_Boot/19.1.Running_from_an_IDE.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
