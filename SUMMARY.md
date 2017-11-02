@@ -52,6 +52,7 @@
     * [18. 使用@SpringBootApplication注解](III.Using_Spring_Boot/18.Using_the_@SpringBootApplication_annotation.md)
     * [19. 运行您的程序](III.Using_Spring_Boot/19.Running_your_application.md)
         * [19.1 从IDE运行](III.Using_Spring_Boot/19.1.Running_from_an_IDE.md)
+        * [19.2 作为打包程序运行](III.Using_Spring_Boot/19.2.Running_as_a_packaged_application.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
