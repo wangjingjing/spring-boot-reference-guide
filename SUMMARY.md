@@ -55,6 +55,7 @@
         * [19.2 作为打包程序运行](III.Using_Spring_Boot/19.2.Running_as_a_packaged_application.md)
         * [19.3 使用Maven插件](III.Using_Spring_Boot/19.3.Using_the_Maven_plugin.md)
         * [19.4 使用Gradle插件](III.Using_Spring_Boot/19.4.Using_the_Gradle_plugin.md)
+        * [19.5 热插拔](III.Using_Spring_Boot/19.5.Hot_swapping.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
