@@ -128,3 +128,4 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * 41.3.11. Auto-configured REST clients
             * 41.3.12. Auto-configured Spring REST Docs tests
             * 41.3.13. Using Spock to test Spring Boot applications
+* [V. Spring Boot致动器（Actuator）：生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/README.md)
