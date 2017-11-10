@@ -60,6 +60,7 @@
         * [20.1 属性默认值](III.Using_Spring_Boot/20.1.Property_defaults.md)
         * [20.2 自动重启](III.Using_Spring_Boot/20.2.Automatic_restart.md)
             * [20.2.1 排除的资源](III.Using_Spring_Boot/20.2.1.Excluding_resources.md)
+            * [20.2.2 监视其他路径](III.Using_Spring_Boot/20.2.2.Watching_additional_paths.md)
     * [21. 打包您的生产环境程序](III.Using_Spring_Boot/21.Packaging_your_application_for_production.md)
     * [22. 接下来读什么](III.Using_Spring_Boot/22.What_to_read_next.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
