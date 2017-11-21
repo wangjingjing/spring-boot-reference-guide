@@ -64,6 +64,7 @@
             * [20.2.3 禁用重启](III.Using_Spring_Boot/20.2.3.Disabling_restart.md)
             * [20.2.4 使用触发文件](III.Using_Spring_Boot/20.2.4.Using_a_trigger_file.md)
             * [20.2.5 定制重启类加载器](III.Using_Spring_Boot/20.2.5.Customizing_the_restart_classloader.md)
+            * [20.2.6 已知的限制](III.Using_Spring_Boot/20.2.6.Known_limitations.md)
     * [21. 打包您的生产环境程序](III.Using_Spring_Boot/21.Packaging_your_application_for_production.md)
     * [22. 接下来读什么](III.Using_Spring_Boot/22.What_to_read_next.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
