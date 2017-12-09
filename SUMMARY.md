@@ -75,6 +75,7 @@
     * [22. 接下来读什么](III.Using_Spring_Boot/22.What_to_read_next.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * [23. SpringApplication](IV.Spring_Boot_features/23.SpringApplication.md)
+        * [23.1 启动失败](IV.Spring_Boot_features/23.1.Startup_failure.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
