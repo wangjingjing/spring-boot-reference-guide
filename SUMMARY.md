@@ -76,6 +76,7 @@
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
     * [23. SpringApplication](IV.Spring_Boot_features/23.SpringApplication.md)
         * [23.1 启动失败](IV.Spring_Boot_features/23.1.Startup_failure.md)
+        * [23.2 定制标语](IV.Spring_Boot_features/23.2.Customizing_the_Banner.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
