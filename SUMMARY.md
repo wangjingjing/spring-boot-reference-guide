@@ -79,6 +79,7 @@
         * [23.2 定制标语](IV.Spring_Boot_features/23.2.Customizing_the_Banner.md)
         * [23.3 定制SpringApplication](IV.Spring_Boot_features/23.3.Customizing_SpringApplication.md)
         * [23.4 流利的构建器API](IV.Spring_Boot_features/23.4.Fluent_builder_API.md)
+        * [23.5 应用程序的事件和监听器](IV.Spring_Boot_features/23.5.Application_events_and_listeners.md)
     * 27. Developing web applications
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
