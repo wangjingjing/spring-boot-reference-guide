@@ -67,7 +67,7 @@
             * [20.2.6 已知的限制](III.Using_Spring_Boot/20.2.6.Known_limitations.md)
         * [20.3 LiveReload](III.Using_Spring_Boot/20.3.LiveReload.md)
         * [20.4 全局设置](III.Using_Spring_Boot/20.4.Global_settings.md)
-        * 20.5. Remote applications
+        * [20.5 远程程序](III.Using_Spring_Boot/20.5.Remote_applications.md)
             * 20.5.1. Running the remote client application
             * 20.5.2. Remote update
             * 20.5.3. Remote debug tunnel
