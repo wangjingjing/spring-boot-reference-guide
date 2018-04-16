@@ -82,7 +82,8 @@
         * [23.5 应用程序的事件和监听器](IV.Spring_Boot_features/23.5.Application_events_and_listeners.md)
         * [23.6 Web环境](IV.Spring_Boot_features/23.6.Web_environment.md)
         * [23.7 访问程序参数](IV.Spring_Boot_features/23.7.Accessing_application_arguments.md)
-    * 27. Developing web applications
+        * [23.8 使用ApplicationRunner或CommandLineRunner](IV.Spring_Boot_features/23.8.Using_the_ApplicationRunner_or_CommandLineRunner.md)
+    * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
             * 27.1.2. HttpMessageConverters
@@ -106,7 +107,7 @@ Scanning for Servlets, Filters, and listeners
 Programmatic customization
 Customizing ConfigurableEmbeddedServletContainer directly
             * 27.3.5. JSP limitations
-    * 28. Security
+    * [28. 安全](IV.Spring_Boot_features/28.Security.md)
         * 28.1. OAuth2
             * 28.1.1. Authorization Server
             * 28.1.2. Resource Server
