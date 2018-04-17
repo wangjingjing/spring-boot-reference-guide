@@ -83,6 +83,7 @@
         * [23.6 Web环境](IV.Spring_Boot_features/23.6.Web_environment.md)
         * [23.7 访问程序参数](IV.Spring_Boot_features/23.7.Accessing_application_arguments.md)
         * [23.8 使用ApplicationRunner或CommandLineRunner](IV.Spring_Boot_features/23.8.Using_the_ApplicationRunner_or_CommandLineRunner.md)
+        * [23.9 程序退出](IV.Spring_Boot_features/23.9.Application_exit.md)
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * 27.1. The ‘Spring Web MVC framework’
             * 27.1.1. Spring MVC auto-configuration
