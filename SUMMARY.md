@@ -86,7 +86,7 @@
         * [23.9 程序退出](IV.Spring_Boot_features/23.9.Application_exit.md)
         * 23.10 Admin features
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
-        * 27.1. The ‘Spring Web MVC framework’
+        * [27.1 “Spring的Web MVC框架”](IV.Spring_Boot_features/27.1.The_‘Spring_Web_MVC_framework’.md)
             * 27.1.1. Spring MVC auto-configuration
             * 27.1.2. HttpMessageConverters
             * 27.1.3. Custom JSON Serializers and Deserializers
