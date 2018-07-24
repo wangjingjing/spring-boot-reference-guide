@@ -90,7 +90,7 @@
             * [27.1.1 Spring MVC的自动配置](IV.Spring_Boot_features/27.1.1.Spring_MVC_auto-configuration.md)
             * [27.1.2 HttpMessageConverters](IV.Spring_Boot_features/27.1.2.HttpMessageConverters.md)
             * [27.1.3 自定义JSON序列化器和反序列化器](IV.Spring_Boot_features/27.1.3.Custom_JSON_Serializers_and_Deserializers.md)
-            * 27.1.4. MessageCodesResolver
+            * [27.1.4 MessageCodesResolver](IV.Spring_Boot_features/27.1.4.MessageCodesResolver.md)
             * 27.1.5. Static Content
             * 27.1.6. Custom Favicon
             * 27.1.7. ConfigurableWebBindingInitializer
