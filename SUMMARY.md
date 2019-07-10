@@ -40,7 +40,7 @@
         * 13.4. Ant
         * [13.5 启动器](III.Using_Spring_Boot/13.5.Starters.md)
     * [14. 构建代码](III.Using_Spring_Boot/14.Structuring_your_code.md)
-        * [14.1 使用“default”包](III.Using_Spring_Boot/14.Structuring_your_code.md#141-使用default包)
+        * [14.1 不使用“default”包](III.Using_Spring_Boot/14.Structuring_your_code.md#141-使用default包)
         * [14.2 放置主程序类](III.Using_Spring_Boot/14.Structuring_your_code.md#142-放置主程序类)
     * [15. 配置类](III.Using_Spring_Boot/15.Configuration_classes.md)
         * [15.1 导入额外的配置类](III.Using_Spring_Boot/15.Configuration_classes.md#151-导入额外的配置类)
