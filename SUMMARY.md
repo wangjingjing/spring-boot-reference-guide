@@ -155,3 +155,4 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * 41.3.13. Using Spock to test Spring Boot applications
 * [V. Spring Boot致动器：生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/README.md)
     * [46. 启用生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/46.Enabling_production-ready_features.md)
+    * [47. 端点（Endpoint）](V.Spring_Boot_Actuator_Production-ready_features/47.Endpoints.md)
