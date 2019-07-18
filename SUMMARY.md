@@ -86,6 +86,13 @@
         * [23.9 程序退出](IV.Spring_Boot_features/23.9.Application_exit.md)
         * [23.10 管理功能](IV.Spring_Boot_features/23.10.Admin_features.md)
     * [24. 外部化配置](IV.Spring_Boot_features/24.Externalized_Configuration.md)
+        * [24.1 配置随机值](IV.Spring_Boot_features/24.1.Configuring_random_values.md)
+        * 24.2. Accessing command line properties
+        * 24.3. Application property files
+        * 24.4. Profile-specific properties
+        * 24.5. Placeholders in properties
+        * 24.6. Using YAML instead of Properties
+        * 24.7. Type-safe Configuration Properties
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * [27.1 “Spring的Web MVC框架”](IV.Spring_Boot_features/27.1.The_‘Spring_Web_MVC_framework’.md)
             * [27.1.1 Spring MVC的自动配置](IV.Spring_Boot_features/27.1.1.Spring_MVC_auto-configuration.md)
@@ -123,7 +130,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
         * [29.1 配置DataSource](IV.Spring_Boot_features/29.1.Configure_a_DataSource.md)
             * [29.1.1 内置数据库支持](IV.Spring_Boot_features/29.1.1.Embedded_Database_Support.md)
             * [29.1.2 连接到生产数据库](IV.Spring_Boot_features/29.1.2.Connection_to_a_production_database.md)
-            * 29.1.3. Connection to a JNDI DataSource
+            * [29.1.3 连接到JNDI数据源](IV.Spring_Boot_features/29.1.3.Connection_to_a_JNDI_DataSource.md)
         * [29.2 使用JdbcTemplate](IV.Spring_Boot_features/29.2.Using_JdbcTemplate.md)
         * [29.3 JPA和“Spring Data”](IV.Spring_Boot_features/29.3.JPA_and_‘Spring_Data’.md)
             * [29.3.1 实体类](IV.Spring_Boot_features/29.3.1.Entity_Classes.md)
