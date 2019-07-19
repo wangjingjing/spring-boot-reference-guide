@@ -137,9 +137,9 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * [29.3.2 Spring Data JPA仓库](IV.Spring_Boot_features/29.3.2.Spring_Data_JPA_Repositories.md)
             * [29.3.3 创建和删除JPA数据库](IV.Spring_Boot_features/29.3.3.Creating_and_dropping_JPA_databases.md)
             * [29.3.4 Open EntityManager in View](IV.Spring_Boot_features/29.3.4.Open_EntityManager_in_View.md)
-        * 29.4. Using H2’s web console
-            * 29.4.1. Changing the H2 console’s path
-            * 29.4.2. Securing the H2 console
+        * [29.4 使用H2的Web控制台](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md)
+            * [29.4.1 更改H2控制台的路径](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md#2941-更改H2控制台的路径)
+            * [29.4.2 确保H2控制台的安全](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md#2942-确保H2控制台的安全)
         * 29.5. Using jOOQ
             * 29.5.1. Code Generation
             * 29.5.2. Using DSLContext
