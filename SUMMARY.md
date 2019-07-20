@@ -87,7 +87,7 @@
         * [23.10 管理功能](IV.Spring_Boot_features/23.10.Admin_features.md)
     * [24. 外部化配置](IV.Spring_Boot_features/24.Externalized_Configuration.md)
         * [24.1 配置随机值](IV.Spring_Boot_features/24.1.Configuring_random_values.md)
-        * 24.2. Accessing command line properties
+        * [24.2 访问命令行属性](IV.Spring_Boot_features/24.2.Accessing_command_line_properties.md)
         * 24.3. Application property files
         * 24.4. Profile-specific properties
         * 24.5. Placeholders in properties
