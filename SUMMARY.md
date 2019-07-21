@@ -68,7 +68,7 @@
         * [20.3 LiveReload](III.Using_Spring_Boot/20.3.LiveReload.md)
         * [20.4 全局设置](III.Using_Spring_Boot/20.4.Global_settings.md)
         * [20.5 远程程序](III.Using_Spring_Boot/20.5.Remote_applications.md)
-            * 20.5.1. Running the remote client application
+            * [20.5.1 运行远程客户端程序](III.Using_Spring_Boot/20.5.1.Running_the_remote_client_application.md)
             * 20.5.2. Remote update
             * 20.5.3. Remote debug tunnel
     * [21. 打包您的生产环境程序](III.Using_Spring_Boot/21.Packaging_your_application_for_production.md)
