@@ -69,7 +69,7 @@
         * [20.4 全局设置](III.Using_Spring_Boot/20.4.Global_settings.md)
         * [20.5 远程程序](III.Using_Spring_Boot/20.5.Remote_applications.md)
             * [20.5.1 运行远程客户端程序](III.Using_Spring_Boot/20.5.1.Running_the_remote_client_application.md)
-            * 20.5.2. Remote update
+            * [20.5.2 远程更新](III.Using_Spring_Boot/20.5.2.Remote_update.md)
             * 20.5.3. Remote debug tunnel
     * [21. 打包您的生产环境程序](III.Using_Spring_Boot/21.Packaging_your_application_for_production.md)
     * [22. 接下来读什么](III.Using_Spring_Boot/22.What_to_read_next.md)
@@ -144,6 +144,9 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * 29.5.1. Code Generation
             * 29.5.2. Using DSLContext
             * 29.5.3. Customizing jOOQ
+    * 30. 使用NoSQL技术
+    * 31. 缓存
+    * 32. 消息
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
