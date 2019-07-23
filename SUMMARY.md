@@ -70,7 +70,7 @@
         * [20.5 远程程序](III.Using_Spring_Boot/20.5.Remote_applications.md)
             * [20.5.1 运行远程客户端程序](III.Using_Spring_Boot/20.5.1.Running_the_remote_client_application.md)
             * [20.5.2 远程更新](III.Using_Spring_Boot/20.5.2.Remote_update.md)
-            * 20.5.3. Remote debug tunnel
+            * [20.5.3 远程调试通道](III.Using_Spring_Boot/20.5.3.Remote_debug_tunnel.md)
     * [21. 打包您的生产环境程序](III.Using_Spring_Boot/21.Packaging_your_application_for_production.md)
     * [22. 接下来读什么](III.Using_Spring_Boot/22.What_to_read_next.md)
 * [IV. Spring Boot的功能](IV.Spring_Boot_features/README.md)
