@@ -89,7 +89,7 @@
         * [24.1 配置随机值](IV.Spring_Boot_features/24.1.Configuring_random_values.md)
         * [24.2 访问命令行属性](IV.Spring_Boot_features/24.2.Accessing_command_line_properties.md)
         * [24.3 应用程序属性文件](IV.Spring_Boot_features/24.3.Application_property_files.md)
-        * 24.4. Profile-specific properties
+        * [24.4 特定配置的properties](IV.Spring_Boot_features/24.4.Profile-specific_properties.md)
         * 24.5. Placeholders in properties
         * 24.6. Using YAML instead of Properties
         * 24.7. Type-safe Configuration Properties
