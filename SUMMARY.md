@@ -91,7 +91,7 @@
         * [24.3 应用程序属性文件](IV.Spring_Boot_features/24.3.Application_property_files.md)
         * [24.4 特定配置的properties](IV.Spring_Boot_features/24.4.Profile-specific_properties.md)
         * [24.5 属性中的占位符](IV.Spring_Boot_features/24.5.Placeholders_in_properties.md)
-        * 24.6. Using YAML instead of Properties
+        * [24.6 使用YAML代替properties](IV.Spring_Boot_features/24.6.Using_YAML_instead_of_Properties.md)
         * 24.7. Type-safe Configuration Properties
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * [27.1 “Spring的Web MVC框架”](IV.Spring_Boot_features/27.1.The_‘Spring_Web_MVC_framework’.md)
