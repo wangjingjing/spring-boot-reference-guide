@@ -142,7 +142,8 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * [29.4.2 确保H2控制台的安全](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md#2942-确保H2控制台的安全)
         * 29.5. Using jOOQ
     * [30. 使用NoSQL技术](IV.Spring_Boot_features/30.Working_with_NoSQL_technologies.md)
-        * 30.1. Redis
+        * [30.1 Redis](IV.Spring_Boot_features/30.1.Redis.md)
+            * [30.1.1 连接到Redis](IV.Spring_Boot_features/30.1.Redis.md#3011-连接到Redis)
         * 30.2. MongoDB
         * 30.3. Neo4j
         * 30.4. Gemfire
