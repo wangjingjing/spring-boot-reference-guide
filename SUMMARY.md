@@ -141,12 +141,22 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * [29.4.1 更改H2控制台的路径](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md#2941-更改H2控制台的路径)
             * [29.4.2 确保H2控制台的安全](IV.Spring_Boot_features/29.4.Using_H2’s_web_console.md#2942-确保H2控制台的安全)
         * 29.5. Using jOOQ
-            * 29.5.1. Code Generation
-            * 29.5.2. Using DSLContext
-            * 29.5.3. Customizing jOOQ
-    * 30. 使用NoSQL技术
+    * [30. 使用NoSQL技术](IV.Spring_Boot_features/30.Working_with_NoSQL_technologies.md)
+        * 30.1. Redis
+        * 30.2. MongoDB
+        * 30.3. Neo4j
+        * 30.4. Gemfire
+        * 30.5. Solr
+        * 30.6. Elasticsearch
+        * 30.7. Cassandra
+        * 30.8. Couchbase
+        * 30.9. LDAP
     * 31. 缓存
+        * 31.1. Supported cache providers
     * 32. 消息
+        * 32.1. JMS
+        * 32.2. AMQP
+        * 32.3. Apache Kafka Support
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
