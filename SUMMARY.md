@@ -95,6 +95,7 @@
         * 24.7. Type-safe Configuration Properties
     * 25. Profiles
     * [26. 日志](IV.Spring_Boot_features/26.Logging.md)
+        * [26.1 日志格式](IV.Spring_Boot_features/26.1.Log_format.md)
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * [27.1 “Spring的Web MVC框架”](IV.Spring_Boot_features/27.1.The_‘Spring_Web_MVC_framework’.md)
             * [27.1.1 Spring MVC的自动配置](IV.Spring_Boot_features/27.1.1.Spring_MVC_auto-configuration.md)
