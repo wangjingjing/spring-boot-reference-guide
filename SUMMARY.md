@@ -92,6 +92,7 @@
         * [24.4 特定配置的properties](IV.Spring_Boot_features/24.4.Profile-specific_properties.md)
         * [24.5 属性中的占位符](IV.Spring_Boot_features/24.5.Placeholders_in_properties.md)
         * [24.6 使用YAML代替properties](IV.Spring_Boot_features/24.6.Using_YAML_instead_of_Properties.md)
+            * [24.6.1 加载YAML](IV.Spring_Boot_features/24.6.1.Loading_YAML.md)
         * 24.7. Type-safe Configuration Properties
     * 25. Profiles
     * [26. 日志](IV.Spring_Boot_features/26.Logging.md)
