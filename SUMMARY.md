@@ -95,6 +95,7 @@
             * [24.6.1 加载YAML](IV.Spring_Boot_features/24.6.1.Loading_YAML.md)
             * [24.6.2 将YAML公开为Spring Environment中的属性](IV.Spring_Boot_features/24.6.2.Exposing_YAML_as_properties_in_the_Spring_Environment.md)
             * [24.6.3 多配置YAML文档](IV.Spring_Boot_features/24.6.3.Multi-profile_YAML_documents.md)
+            * [24.6.4 YAML的缺点](IV.Spring_Boot_features/24.6.4.YAML_shortcomings.md)
         * 24.7. Type-safe Configuration Properties
     * 25. Profiles
     * [26. 日志](IV.Spring_Boot_features/26.Logging.md)
