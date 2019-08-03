@@ -154,7 +154,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
     * [30. 使用NoSQL技术](IV.Spring_Boot_features/30.Working_with_NoSQL_technologies.md)
         * [30.1 Redis](IV.Spring_Boot_features/30.1.Redis.md)
             * [30.1.1 连接到Redis](IV.Spring_Boot_features/30.1.Redis.md#3011-连接到Redis)
-        * 30.2. MongoDB
+        * [30.2 MongoDB](IV.Spring_Boot_features/30.2.MongoDB.md)
         * 30.3. Neo4j
         * 30.4. Gemfire
         * 30.5. Solr
