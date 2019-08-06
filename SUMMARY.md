@@ -176,17 +176,18 @@ Customizing ConfigurableEmbeddedServletContainer directly
         * [41.3 测试Spring Boot程序](IV.Spring_Boot_features/41.3.Testing_Spring_Boot_applications.md)
             * [41.3.1 检测测试配置](IV.Spring_Boot_features/41.3.1.Detecting_test_configuration.md)
             * [41.3.2 排除测试配置](IV.Spring_Boot_features/41.3.2.Excluding_test_configuration.md)
-            * 41.3.3. Working with random ports
-            * 41.3.4. Mocking and spying beans
-            * [41.3.5 自动配置的测试](IV.Spring_Boot_features/41.3.5.Auto-configured_tests.md)
-            * [41.3.6 自动配置的JSON测试](IV.Spring_Boot_features/41.3.6.Auto-configured_JSON_tests.md)
-            * [41.3.7 自动配置的Spring MVC测试](IV.Spring_Boot_features/41.3.7.Auto-configured_Spring_MVC_tests.md)
-            * 41.3.8. Auto-configured Data JPA tests
-            * 41.3.9. Auto-configured JDBC tests
-            * 41.3.10. Auto-configured Data MongoDB tests
-            * 41.3.11. Auto-configured REST clients
-            * 41.3.12. Auto-configured Spring REST Docs tests
-            * 41.3.13. Using Spock to test Spring Boot applications
+            * [41.3.3 使用随机端口](IV.Spring_Boot_features/41.3.3.Working_with_random_ports.md)
+            * 41.3.4. Using JMX
+            * 41.3.5. Mocking and spying beans
+            * [41.3.6 自动配置的测试](IV.Spring_Boot_features/41.3.6.Auto-configured_tests.md)
+            * [41.3.7 自动配置的JSON测试](IV.Spring_Boot_features/41.3.7.Auto-configured_JSON_tests.md)
+            * [41.3.8 自动配置的Spring MVC测试](IV.Spring_Boot_features/41.3.8.Auto-configured_Spring_MVC_tests.md)
+            * 41.3.9. Auto-configured Data JPA tests
+            * 41.3.10. Auto-configured JDBC tests
+            * 41.3.11. Auto-configured Data MongoDB tests
+            * 41.3.12. Auto-configured REST clients
+            * 41.3.13. Auto-configured Spring REST Docs tests
+            * 41.3.14. Using Spock to test Spring Boot applications
 * [V. Spring Boot致动器：生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/README.md)
     * [46. 启用生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/46.Enabling_production-ready_features.md)
     * [47. 端点（Endpoint）](V.Spring_Boot_Actuator_Production-ready_features/47.Endpoints.md)
