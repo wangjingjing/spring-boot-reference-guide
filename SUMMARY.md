@@ -109,8 +109,8 @@
             * [27.1.2 HttpMessageConverters](IV.Spring_Boot_features/27.1.2.HttpMessageConverters.md)
             * [27.1.3 自定义JSON序列化器和反序列化器](IV.Spring_Boot_features/27.1.3.Custom_JSON_Serializers_and_Deserializers.md)
             * [27.1.4 MessageCodesResolver](IV.Spring_Boot_features/27.1.4.MessageCodesResolver.md)
-            * [27.1.4 27.1.5 静态内容](IV.Spring_Boot_features/27.1.5.Static_Content.md)
-            * 27.1.6. Custom Favicon
+            * [27.1.5 静态内容](IV.Spring_Boot_features/27.1.5.Static_Content.md)
+            * [27.1.6 自定义Favicon](IV.Spring_Boot_features/27.1.6.Custom_Favicon.md)
             * 27.1.7. ConfigurableWebBindingInitializer
             * 27.1.8. Template engines
             * 27.1.9. Error Handling
