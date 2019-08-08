@@ -111,7 +111,7 @@
             * [27.1.4 MessageCodesResolver](IV.Spring_Boot_features/27.1.4.MessageCodesResolver.md)
             * [27.1.5 静态内容](IV.Spring_Boot_features/27.1.5.Static_Content.md)
             * [27.1.6 自定义Favicon](IV.Spring_Boot_features/27.1.6.Custom_Favicon.md)
-            * 27.1.7. ConfigurableWebBindingInitializer
+            * [27.1.7 ConfigurableWebBindingInitializer](IV.Spring_Boot_features/27.1.7.ConfigurableWebBindingInitializer.md)
             * 27.1.8. Template engines
             * 27.1.9. Error Handling
             * 27.1.10. Spring HATEOAS
