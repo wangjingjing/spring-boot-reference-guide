@@ -98,6 +98,7 @@
             * [24.6.4 YAML的缺点](IV.Spring_Boot_features/24.6.4.YAML_shortcomings.md)
             * [24.6.5 合并YAML列表](IV.Spring_Boot_features/24.6.5.Merging_YAML_lists.md)
         * [24.7 类型安全的配置属性](IV.Spring_Boot_features/24.7.Type-safe_Configuration_Properties.md)
+            * [24.7.1 第三方配置](IV.Spring_Boot_features/24.7.1.Third-party_configuration.md)
     * 25. Profiles
     * [26. 日志](IV.Spring_Boot_features/26.Logging.md)
         * [26.1 日志格式](IV.Spring_Boot_features/26.1.Log_format.md)
