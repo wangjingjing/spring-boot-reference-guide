@@ -117,7 +117,7 @@
             * [27.1.7 ConfigurableWebBindingInitializer](IV.Spring_Boot_features/27.1.7.ConfigurableWebBindingInitializer.md)
             * [27.1.8 模板引擎](IV.Spring_Boot_features/27.1.8.Template_engines.md)
             * 27.1.9. Error Handling
-            * 27.1.10. Spring HATEOAS
+            * [27.1.10 Spring HATEOAS](IV.Spring_Boot_features/27.1.10.Spring_HATEOAS.md)
             * 27.1.11. CORS support
         * 27.2. JAX-RS and Jersey
         * 27.3. Embedded servlet container support
