@@ -117,7 +117,10 @@
             * [27.1.6 自定义Favicon](IV.Spring_Boot_features/27.1.6.Custom_Favicon.md)
             * [27.1.7 ConfigurableWebBindingInitializer](IV.Spring_Boot_features/27.1.7.ConfigurableWebBindingInitializer.md)
             * [27.1.8 模板引擎](IV.Spring_Boot_features/27.1.8.Template_engines.md)
-            * 27.1.9. Error Handling
+            * [27.1.9 错误处理](IV.Spring_Boot_features/27.1.9.Error_Handling.md)
+            * [　　　定制错误页面](IV.Spring_Boot_features/27.1.9.Error_Handling.md#定制错误页面)
+            * [　　　在Spring MVC以外映射错误页面](IV.Spring_Boot_features/27.1.9.Error_Handling.md#在Spring-MVC以外映射错误页面)
+            * [　　　WebSphere Application Server上的错误处理](IV.Spring_Boot_features/27.1.9.Error_Handling.md#WebSphere-Application-Server上的错误处理)
             * [27.1.10 Spring HATEOAS](IV.Spring_Boot_features/27.1.10.Spring_HATEOAS.md)
             * [27.1.11 CORS支持](IV.Spring_Boot_features/27.1.11.CORS_support.md)
         * 27.2. JAX-RS and Jersey
