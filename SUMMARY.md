@@ -164,6 +164,7 @@ Customizing ConfigurableEmbeddedServletContainer directly
         * [30.2 MongoDB](IV.Spring_Boot_features/30.2.MongoDB.md)
             * [30.2.1 连接MongoDB数据库](IV.Spring_Boot_features/30.2.1.Connecting_to_a_MongoDB_database.md)
             * [30.2.2 MongoTemplate](IV.Spring_Boot_features/30.2.2.MongoTemplate.md)
+            * [30.2.3 Spring Data MongoDB库](IV.Spring_Boot_features/30.2.3.Spring_Data_MongoDB_repositories.md)
         * 30.3. Neo4j
         * 30.4. Gemfire
         * 30.5. Solr
