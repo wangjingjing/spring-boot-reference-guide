@@ -125,15 +125,6 @@
             * [27.1.11 CORS支持](IV.Spring_Boot_features/27.1.11.CORS_support.md)
         * 27.2. JAX-RS and Jersey
         * 27.3. Embedded servlet container support
-            * 27.3.1. Servlets, Filters, and listeners
-Registering Servlets, Filters, and listeners as Spring beans
-            * 27.3.2. Servlet Context Initialization
-Scanning for Servlets, Filters, and listeners
-            * 27.3.3. The EmbeddedWebApplicationContext
-            * 27.3.4. Customizing embedded servlet containers
-Programmatic customization
-Customizing ConfigurableEmbeddedServletContainer directly
-            * 27.3.5. JSP limitations
     * [28. 安全](IV.Spring_Boot_features/28.Security.md)
         * 28.1. OAuth2
             * 28.1.1. Authorization Server
@@ -165,19 +156,9 @@ Customizing ConfigurableEmbeddedServletContainer directly
             * [30.2.1 连接MongoDB数据库](IV.Spring_Boot_features/30.2.1.Connecting_to_a_MongoDB_database.md)
             * [30.2.2 MongoTemplate](IV.Spring_Boot_features/30.2.2.MongoTemplate.md)
             * [30.2.3 Spring Data MongoDB库](IV.Spring_Boot_features/30.2.3.Spring_Data_MongoDB_repositories.md)
-        * 30.3. Neo4j
-        * 30.4. Gemfire
-        * 30.5. Solr
-        * 30.6. Elasticsearch
-        * 30.7. Cassandra
-        * 30.8. Couchbase
-        * 30.9. LDAP
+            * [30.2.4 内嵌的Mongo](IV.Spring_Boot_features/30.2.4.Embedded_Mongo.md)
     * 31. 缓存
-        * 31.1. Supported cache providers
     * 32. 消息
-        * 32.1. JMS
-        * 32.2. AMQP
-        * 32.3. Apache Kafka Support
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
