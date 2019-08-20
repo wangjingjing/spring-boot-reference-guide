@@ -107,6 +107,7 @@
             * [26.2.1 彩色编码的输出](IV.Spring_Boot_features/26.2.1.Color-coded_output.md)
         * [26.3 文件输出](IV.Spring_Boot_features/26.3.File_output.md)
         * [26.4 日志级别](IV.Spring_Boot_features/26.4.Log_Levels.md)
+        * [26.5 自定义日志配置](IV.Spring_Boot_features/26.5.Custom_log_configuration.md)
     * [27. 开发Web应用](IV.Spring_Boot_features/27.Developing_web_applications.md)
         * [27.1 “Spring的Web MVC框架”](IV.Spring_Boot_features/27.1.The_‘Spring_Web_MVC_framework’.md)
             * [27.1.1 Spring MVC的自动配置](IV.Spring_Boot_features/27.1.1.Spring_MVC_auto-configuration.md)
