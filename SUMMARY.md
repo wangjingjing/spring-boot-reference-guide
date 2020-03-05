@@ -167,7 +167,7 @@
             * [41.3.1 检测测试配置](IV.Spring_Boot_features/41.3.1.Detecting_test_configuration.md)
             * [41.3.2 排除测试配置](IV.Spring_Boot_features/41.3.2.Excluding_test_configuration.md)
             * [41.3.3 使用随机端口](IV.Spring_Boot_features/41.3.3.Working_with_random_ports.md)
-            * 41.3.4. Using JMX
+            * [41.3.4 使用JMX](IV.Spring_Boot_features/41.3.4.Using_JMX.md)
             * 41.3.5. Mocking and spying beans
             * [41.3.6 自动配置的测试](IV.Spring_Boot_features/41.3.6.Auto-configured_tests.md)
             * [41.3.7 自动配置的JSON测试](IV.Spring_Boot_features/41.3.7.Auto-configured_JSON_tests.md)
