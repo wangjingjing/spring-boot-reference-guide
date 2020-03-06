@@ -158,8 +158,13 @@
             * [30.2.2 MongoTemplate](IV.Spring_Boot_features/30.2.2.MongoTemplate.md)
             * [30.2.3 Spring Data MongoDB库](IV.Spring_Boot_features/30.2.3.Spring_Data_MongoDB_repositories.md)
             * [30.2.4 内嵌的Mongo](IV.Spring_Boot_features/30.2.4.Embedded_Mongo.md)
-    * 31. 缓存
-    * 32. 消息
+        * 30.3. Neo4j
+        * 30.4. Gemfire
+        * 30.5. Solr
+        * 30.6. Elasticsearch
+        * 30.7. Cassandra
+        * 30.8. Couchbase
+        * 30.9. LDAP
     * [41. 测试](IV.Spring_Boot_features/41.Testing.md)
         * [41.1 测试范围内的依赖](IV.Spring_Boot_features/41.1.Test_scope_dependencies.md)
         * [41.2 测试Spring程序](IV.Spring_Boot_features/41.2.Testing_Spring_applications.md)
@@ -173,7 +178,7 @@
             * [41.3.7 自动配置的JSON测试](IV.Spring_Boot_features/41.3.7.Auto-configured_JSON_tests.md)
             * [41.3.8 自动配置的Spring MVC测试](IV.Spring_Boot_features/41.3.8.Auto-configured_Spring_MVC_tests.md)
             * [41.3.9 自动配置的Data JPA测试](IV.Spring_Boot_features/41.3.9.Auto-configured_Data_JPA_tests.md)
-            * 41.3.10. Auto-configured JDBC tests
+            * [41.3.10 自动配置的JDBC测试](IV.Spring_Boot_features/41.3.10.Auto-configured_JDBC_tests.md)
             * 41.3.11. Auto-configured Data MongoDB tests
             * 41.3.12. Auto-configured REST clients
             * 41.3.13. Auto-configured Spring REST Docs tests
