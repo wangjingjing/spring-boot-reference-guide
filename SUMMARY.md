@@ -172,16 +172,17 @@
             * [41.3.6 自动配置的测试](IV.Spring_Boot_features/41.3.6.Auto-configured_tests.md)
             * [41.3.7 自动配置的JSON测试](IV.Spring_Boot_features/41.3.7.Auto-configured_JSON_tests.md)
             * [41.3.8 自动配置的Spring MVC测试](IV.Spring_Boot_features/41.3.8.Auto-configured_Spring_MVC_tests.md)
-            * 41.3.9. Auto-configured Data JPA tests
+            * [41.3.9 自动配置的Data JPA测试](IV.Spring_Boot_features/41.3.9.Auto-configured_Data_JPA_tests.md)
             * 41.3.10. Auto-configured JDBC tests
             * 41.3.11. Auto-configured Data MongoDB tests
             * 41.3.12. Auto-configured REST clients
             * 41.3.13. Auto-configured Spring REST Docs tests
-            * 41.3.14. Using Spock to test Spring Boot applications
+            * 41.3.14. User configuration and slicing
+            * 41.3.15. Using Spock to test Spring Boot applications
 * [V. Spring Boot致动器：生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/README.md)
     * [46. 启用生产环境功能](V.Spring_Boot_Actuator_Production-ready_features/46.Enabling_production-ready_features.md)
     * [47. 端点（Endpoint）](V.Spring_Boot_Actuator_Production-ready_features/47.Endpoints.md)
 * VI. 部署Spring Boot应用
 * VII. Spring Boot CLI
 * VIII. 构建工具插件
-* [Part IX. “How-to”指南](IX.‘How-to’_guides/README.md)
+* [IX. “How-to”指南](IX.‘How-to’_guides/README.md)
