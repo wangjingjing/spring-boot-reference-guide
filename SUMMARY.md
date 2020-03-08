@@ -101,6 +101,7 @@
             * [24.7.1 第三方配置](IV.Spring_Boot_features/24.7.1.Third-party_configuration.md)
             * [24.7.2 宽松绑定](IV.Spring_Boot_features/24.7.2.Relaxed_binding.md)
             * [24.7.3 属性转换](IV.Spring_Boot_features/24.7.3.Properties_conversion.md)
+            * [24.7.4 @ConfigurationProperties校验](IV.Spring_Boot_features/24.7.4.@ConfigurationProperties_Validation.md)
     * 25. Profiles
     * [26. 日志](IV.Spring_Boot_features/26.Logging.md)
         * [26.1 日志格式](IV.Spring_Boot_features/26.1.Log_format.md)
