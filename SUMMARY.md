@@ -186,7 +186,7 @@
             * [41.3.9 自动配置的Data JPA测试](IV.Spring_Boot_features/41.3.9.Auto-configured_Data_JPA_tests.md)
             * [41.3.10 自动配置的JDBC测试](IV.Spring_Boot_features/41.3.10.Auto-configured_JDBC_tests.md)
             * [41.3.11 自动配置的Data MongoDB测试](IV.Spring_Boot_features/41.3.11.Auto-configured_Data_MongoDB_tests.md)
-            * 41.3.12. Auto-configured REST clients
+            * [41.3.12 自动配置的Rest客户端](IV.Spring_Boot_features/41.3.12.Auto-configured_REST_clients.md)
             * 41.3.13. Auto-configured Spring REST Docs tests
             * 41.3.14. User configuration and slicing
             * 41.3.15. Using Spock to test Spring Boot applications
