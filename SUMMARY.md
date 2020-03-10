@@ -131,7 +131,7 @@
             * [27.1.10 Spring HATEOAS](IV.Spring_Boot_features/27.1.10.Spring_HATEOAS.md)
             * [27.1.11 CORS支持](IV.Spring_Boot_features/27.1.11.CORS_support.md)
         * 27.2. JAX-RS and Jersey
-        * 27.3. Embedded servlet container support
+        * [27.3 内嵌的servlet容器支持](IV.Spring_Boot_features/27.3.Embedded_servlet_container_support.md)
     * [28. 安全](IV.Spring_Boot_features/28.Security.md)
         * 28.1. OAuth2
             * 28.1.1. Authorization Server
