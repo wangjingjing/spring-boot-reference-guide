@@ -132,6 +132,8 @@
             * [27.1.11 CORS支持](IV.Spring_Boot_features/27.1.11.CORS_support.md)
         * 27.2. JAX-RS and Jersey
         * [27.3 内嵌的servlet容器支持](IV.Spring_Boot_features/27.3.Embedded_servlet_container_support.md)
+            * [27.3.1 Servlets、过滤器和监听器](IV.Spring_Boot_features/27.3.1.Servlets,Filters,and_listeners.md)
+            * [　　　将Servlet、过滤器和监听器注册为Spring bean](IV.Spring_Boot_features/27.3.1.Servlets,Filters,and_listeners.md#将Servlet、过滤器和监听器注册为Spring-bean)
     * [28. 安全](IV.Spring_Boot_features/28.Security.md)
         * 28.1. OAuth2
             * 28.1.1. Authorization Server
